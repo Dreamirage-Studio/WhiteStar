@@ -1,6 +1,5 @@
 # WhiteStar 工具箱
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 [![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/)
 [![Language](https://img.shields.io/badge/Language-中文-red.svg)](README.md)
